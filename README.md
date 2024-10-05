@@ -10,7 +10,7 @@ Data Management: Organizes missing person data and recognized face images for fu
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/Vivek-00101/Safe-Search.git
+git clone https://github.com/Aryanpratap01/Safe-Search.git
 cd safe-search
 Install the required dependencies:
 
